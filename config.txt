@@ -1,0 +1,3 @@
+highPrice=10
+lowPrice=5
+limitCount=5

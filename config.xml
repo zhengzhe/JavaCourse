@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Game>
+  <LowPrice>5</LowPrice>
+  <HighPrice>10</HighPrice>
+  <LimitCount>5</LimitCount>
+</Game>
+
